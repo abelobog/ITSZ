@@ -1,0 +1,118 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="4023935739"/>
+    <file name="master_a-p_gina-maestra.css" crc="4159922779" ref="noticias:contactos:oferta:servicios:valores:mision:actividades:index:becas:vision"/>
+    <file name="noticias.css" crc="4123563295" ref="noticias"/>
+    <file name="contactos.css" crc="250703567" ref="contactos"/>
+    <file name="oferta.css" crc="355765134" ref="oferta"/>
+    <file name="servicios.css" crc="3917715162" ref="servicios"/>
+    <file name="valores.css" crc="151466875" ref="valores"/>
+    <file name="mision.css" crc="505160395" ref="mision"/>
+    <file name="actividades.css" crc="56586580" ref="actividades"/>
+    <file name="index.css" crc="3951160633" ref="index"/>
+    <file name="becas.css" crc="194052915" ref="becas"/>
+    <file name="vision.css" crc="405534608" ref="vision"/>
+  </folder>
+  <folder name="assets">
+    <file name="texo-valores.psd" crc="3813125024" mt="1401125156000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:oferta:servicios:noticias:becas:actividades:valores:contactos:vision:mision"/>
+    <file name="museutils.js" crc="4291592202" ref="index:oferta:servicios:noticias:becas:actividades:valores:contactos:vision:mision"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:oferta:servicios:noticias:becas:actividades:valores:contactos:vision:mision"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:oferta:servicios:noticias:becas:actividades:valores:contactos:vision:mision"/>
+  </folder>
+  <folder name="images">
+    <file name="aplicacioncopia.jpg" crc="4019555679" ref="index:oferta:servicios:noticias:becas:actividades:valores:contactos:vision:mision"/>
+    <file name="iinici.png" crc="399655355" ref="index:oferta:servicios:noticias:becas:actividades:valores:contactos:vision:mision"/>
+    <file name="logo.png" crc="459737453" ref="index:oferta:servicios:noticias:becas:actividades:valores:contactos:vision:mision"/>
+    <file name="itsz.png" crc="4025978836" ref="index:oferta:servicios:noticias:becas:actividades:valores:contactos:vision:mision"/>
+    <file name="linea.png" crc="209738376" ref="index:oferta:servicios:noticias:becas:actividades:valores:contactos:vision:mision"/>
+    <file name="itszhead.png" crc="3773952996" ref="index:oferta:servicios:noticias:becas:actividades:valores:contactos:vision:mision"/>
+    <file name="oferta.png" crc="366693300" ref="index"/>
+    <file name="oferta2.png" crc="4002514920" ref="index"/>
+    <file name="instituto.png" crc="3830811405" ref="index"/>
+    <file name="instituto2.png" crc="376755669" ref="index"/>
+    <file name="servicios.png" crc="3953152518" ref="index"/>
+    <file name="servicios2.png" crc="117463495" ref="index"/>
+    <file name="beca.png" crc="4272848777" ref="index"/>
+    <file name="beca2.png" crc="16835767" ref="index"/>
+    <file name="actividades.png" crc="514360218" ref="index"/>
+    <file name="actividades2.png" crc="382214212" ref="index"/>
+    <file name="noticis.png" crc="526316554" ref="index"/>
+    <file name="noticis2.png" crc="48844707" ref="index"/>
+    <file name="virtual.png" crc="3780708449" ref="index"/>
+    <file name="virtual2.png" crc="211509373" ref="index"/>
+    <file name="inicio.png" crc="4141957269" ref="index"/>
+    <file name="1.png" crc="82994057" ref="oferta"/>
+    <file name="12.png" crc="80622183" ref="oferta"/>
+    <file name="sin-título-1.png" crc="4025687905" ref="oferta"/>
+    <file name="2.png" crc="3907473713" ref="oferta"/>
+    <file name="22.png" crc="206913227" ref="oferta"/>
+    <file name="3.png" crc="400547154" ref="oferta"/>
+    <file name="32.png" crc="44235072" ref="oferta"/>
+    <file name="4.png" crc="4233999617" ref="oferta"/>
+    <file name="42.png" crc="4069609634" ref="oferta"/>
+    <file name="5.png" crc="116986965" ref="oferta"/>
+    <file name="52.png" crc="3981477711" ref="oferta"/>
+    <file name="6.png" crc="3779711405" ref="oferta"/>
+    <file name="62.png" crc="4252268680" ref="oferta"/>
+    <file name="7.png" crc="146009049" ref="oferta"/>
+    <file name="72.png" crc="446436352" ref="oferta"/>
+    <file name="gastr.png" crc="4118631231" ref="oferta"/>
+    <file name="regreso-u1465-fr.png" crc="3812390191" ref="oferta"/>
+    <file name="regreso-u1476-fr.png" crc="3881656981" ref="oferta"/>
+    <file name="regreso-u1476-r-fr.png" crc="484757381" ref="oferta"/>
+    <file name="inge2.png" crc="3919062893" ref="oferta"/>
+    <file name="33.png" crc="3819171034" ref="oferta"/>
+    <file name="regreso-u1468-fr.png" crc="3799032082" ref="oferta"/>
+    <file name="regreso-u1470-fr.png" crc="3996113650" ref="oferta"/>
+    <file name="43.png" crc="4031114171" ref="oferta"/>
+    <file name="regreso-u1471-fr.png" crc="3799032082" ref="oferta"/>
+    <file name="53.png" crc="462583965" ref="oferta"/>
+    <file name="regreso-u1472-fr.png" crc="3942356831" ref="oferta"/>
+    <file name="63.png" crc="277192892" ref="oferta"/>
+    <file name="regreso-u1473-fr.png" crc="3996113650" ref="oferta"/>
+    <file name="73.png" crc="4146241501" ref="oferta"/>
+    <file name="regreso-u1474-fr.png" crc="81978325" ref="oferta"/>
+    <file name="boser.png" crc="372194963" ref="servicios"/>
+    <file name="servicios22.png" crc="198943393" ref="servicios"/>
+    <file name="regreso-u1570-fr.png" crc="428777060" ref="servicios:noticias:becas:actividades"/>
+    <file name="regreso-u1570-r-fr.png" crc="264771418" ref="servicios:noticias:becas:actividades"/>
+    <file name="no.png" crc="226260660" ref="noticias"/>
+    <file name="admision.jpg" crc="4239875010" ref="noticias"/>
+    <file name="gastronomia.jpg" crc="121089120" ref="noticias"/>
+    <file name="informatica.jpg" crc="313625970" ref="noticias"/>
+    <file name="forestal.jpg" crc="332248016" ref="noticias"/>
+    <file name="biologia.jpg" crc="3774855468" ref="noticias"/>
+    <file name="becas-menu.png" crc="270015383" ref="becas"/>
+    <file name="becb.png" crc="4170893732" ref="becas"/>
+    <file name="bot-act.png" crc="252011718" ref="actividades"/>
+    <file name="danza.png" crc="331721682" ref="actividades"/>
+    <file name="texo valores.png" crc="3800559726" ref="valores"/>
+    <file name="instituto3.png" crc="3760848875" ref="valores:contactos:vision:mision"/>
+    <file name="regreso-u953-fr.png" crc="77292090" ref="valores:contactos:vision:mision"/>
+    <file name="regreso-u953-r-fr.png" crc="3897992189" ref="valores:contactos:vision:mision"/>
+    <file name="valoresbo-u1020-fr.png" crc="3858582243" ref="valores:contactos:vision:mision"/>
+    <file name="vision bot-u1032-fr.png" crc="3848454254" ref="valores:contactos:vision:mision"/>
+    <file name="vision bot-u1032-r-fr.png" crc="343976739" ref="valores:contactos:mision"/>
+    <file name="boton misio-u1064-fr.png" crc="4097995496" ref="valores:contactos:vision:mision"/>
+    <file name="boton misio-u1064-r-fr.png" crc="435390937" ref="valores:contactos:vision"/>
+    <file name="direcbot-u1110-fr.png" crc="426437594" ref="valores:contactos:vision:mision"/>
+    <file name="direcbot-u1110-r-fr.png" crc="220500295" ref="valores:vision:mision"/>
+    <file name="directoioli.png" crc="4039785617" ref="contactos"/>
+    <file name="valoresbo-u1202-r-fr.png" crc="279497199" ref="contactos:vision:mision"/>
+    <file name="nuestra vision.png" crc="4076857757" ref="vision"/>
+    <file name="nuestra mision.png" crc="3803699571" ref="mision"/>
+  </folder>
+  <file name="index.html" crc="3810163866" mt="1401151011071" redirect="true"/>
+  <file name="oferta.html" crc="3863258365" mt="1401150357208" redirect="true"/>
+  <file name="servicios.html" crc="375672045" mt="1401150357211" redirect="true"/>
+  <file name="noticias.html" crc="4134322683" mt="1401150357217" redirect="true"/>
+  <file name="becas.html" crc="85494271" mt="1401150913199" redirect="true"/>
+  <file name="actividades.html" crc="3808040748" mt="1401150357227" redirect="true"/>
+  <file name="valores.html" crc="4230369407" mt="1401150357230" redirect="true"/>
+  <file name="contactos.html" crc="3839226194" mt="1401150357233" redirect="true"/>
+  <file name="vision.html" crc="177911849" mt="1401150357236" redirect="true"/>
+  <file name="mision.html" crc="3843707822" mt="1401150357239" redirect="true"/>
+</manifest>

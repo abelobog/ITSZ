@@ -1,0 +1,210 @@
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background: #C9C9C9 url("../images/aplicacioncopia.jpg") repeat left top fixed;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	border-style: none;
+	border-color: #000000;
+	padding-bottom: 24px;
+	background: #FFFFFF url("../images/aplicacioncopia.jpg") repeat left top;
+}
+
+#u114
+{
+	z-index: 2;
+	width: 380px;
+	margin-right: -10000px;
+}
+
+#u718
+{
+	z-index: 4;
+	width: 380px;
+	margin-right: -10000px;
+	margin-top: 126px;
+}
+
+#u723
+{
+	z-index: 6;
+	width: 91px;
+	margin-right: -10000px;
+	margin-top: 40px;
+	left: 10px;
+}
+
+#u728
+{
+	z-index: 8;
+	width: 171px;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 3px;
+}
+
+#u734
+{
+	z-index: 10;
+	width: 370px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 6px;
+}
+
+#u739
+{
+	z-index: 12;
+	width: 265px;
+	margin-right: -10000px;
+	margin-top: 53px;
+	left: 108px;
+}
+
+#u1177
+{
+	z-index: 14;
+	width: 359px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 166px;
+	left: 11px;
+}
+
+#u1183
+{
+	z-index: 16;
+	width: 71px;
+	height: 27px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 485px;
+	left: 27px;
+	background: transparent url("../images/valoresbo-u1020-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1183:hover
+{
+	margin: 485px -10000px 0px 0px;
+	background: transparent url("../images/valoresbo-u1202-r-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1184
+{
+	z-index: 17;
+	width: 54px;
+	height: 27px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 485px;
+	left: 150px;
+	background: transparent url("../images/vision%20bot-u1032-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1185
+{
+	z-index: 18;
+	width: 63px;
+	height: 27px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 485px;
+	left: 94px;
+	background: transparent url("../images/boton%20misio-u1064-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1185:hover
+{
+	margin: 485px -10000px 0px 0px;
+	background: transparent url("../images/boton%20misio-u1064-r-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1186
+{
+	z-index: 19;
+	width: 164px;
+	height: 27px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 485px;
+	left: 203px;
+	background: transparent url("../images/direcbot-u1110-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1186:hover
+{
+	margin: 485px -10000px 0px 0px;
+	background: transparent url("../images/direcbot-u1110-r-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1213
+{
+	z-index: 20;
+	width: 67px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 125px;
+	left: 149px;
+}
+
+#u1215
+{
+	z-index: 22;
+	width: 85px;
+	height: 32px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 122px;
+	left: 18px;
+	background: transparent url("../images/regreso-u953-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1215:hover
+{
+	margin: 122px -10000px 0px 0px;
+	background: transparent url("../images/regreso-u953-r-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

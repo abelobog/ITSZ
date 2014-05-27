@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.ITSZ"
+    version   = "1.0.0">
+
+<name>ITSZ</name>
+
+<description>
+APLICACIÓN PARA ORIENTACIÓN DE  NUEVOS ALUMNOS INTERESADOS EN EL INSTITUTO SUPERIOR DE ZACAPOAXTLA Y UTIL PARA LOS ALUMNOS DE EL MISMO 
+</description>
+
+<author href="https://example.com" email="you@example.com">
+FRANCISCO JUVENTINO AGUILAR FIGUEROA 
+</author>
+
+</widget>

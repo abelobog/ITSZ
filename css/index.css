@@ -1,0 +1,247 @@
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background: #C9C9C9 url("../images/aplicacioncopia.jpg") repeat left top fixed;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	border-style: none;
+	border-color: #000000;
+	padding-bottom: 24px;
+	background: #FFFFFF url("../images/aplicacioncopia.jpg") repeat left top;
+}
+
+#u114
+{
+	z-index: 2;
+	width: 380px;
+	margin-right: -10000px;
+}
+
+#u718
+{
+	z-index: 4;
+	width: 380px;
+	margin-right: -10000px;
+	margin-top: 126px;
+}
+
+#u723
+{
+	z-index: 6;
+	width: 91px;
+	margin-right: -10000px;
+	margin-top: 40px;
+	left: 10px;
+}
+
+#u728
+{
+	z-index: 8;
+	width: 171px;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 3px;
+}
+
+#u734
+{
+	z-index: 10;
+	width: 370px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 6px;
+}
+
+#u739
+{
+	z-index: 12;
+	width: 265px;
+	margin-right: -10000px;
+	margin-top: 53px;
+	left: 108px;
+}
+
+#u790
+{
+	z-index: 14;
+	width: 176px;
+	height: 116px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 154px;
+	left: 195px;
+	background: transparent url("../images/oferta.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u790:hover
+{
+	margin: 154px -10000px 0px 0px;
+	background: transparent url("../images/oferta2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u809
+{
+	z-index: 15;
+	width: 176px;
+	height: 116px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 154px;
+	left: 6px;
+	background: transparent url("../images/instituto.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u809:hover
+{
+	margin: 154px -10000px 0px 0px;
+	background: transparent url("../images/instituto2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u824
+{
+	z-index: 16;
+	width: 176px;
+	height: 116px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 274px;
+	left: 6px;
+	background: transparent url("../images/servicios.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u824:hover
+{
+	margin: 274px -10000px 0px 0px;
+	background: transparent url("../images/servicios2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u836
+{
+	z-index: 17;
+	width: 176px;
+	height: 116px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 394px;
+	left: 6px;
+	background: transparent url("../images/beca.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u836:hover
+{
+	margin: 394px -10000px 0px 0px;
+	background: transparent url("../images/beca2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u848
+{
+	z-index: 18;
+	width: 176px;
+	height: 116px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 274px;
+	left: 195px;
+	background: transparent url("../images/actividades.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u848:hover
+{
+	margin: 274px -10000px 0px 0px;
+	background: transparent url("../images/actividades2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u860
+{
+	z-index: 19;
+	width: 176px;
+	height: 116px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 394px;
+	left: 195px;
+	background: transparent url("../images/noticis.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u860:hover
+{
+	margin: 394px -10000px 0px 0px;
+	background: transparent url("../images/noticis2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u872
+{
+	z-index: 20;
+	width: 367px;
+	height: 45px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 517px;
+	left: 5px;
+	background: transparent url("../images/virtual.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u872:hover
+{
+	margin: 517px -10000px 0px 0px;
+	background: transparent url("../images/virtual2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u884
+{
+	z-index: 21;
+	width: 55px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 126px;
+	left: 159px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
